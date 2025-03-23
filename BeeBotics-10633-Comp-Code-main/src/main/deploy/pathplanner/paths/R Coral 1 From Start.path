@@ -1,0 +1,54 @@
+{
+  "version": "2025.0",
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 7.204610655734125,
+        "y": 0.5665471311443525
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 6.46112200841571,
+        "y": 1.2887583452945988
+      },
+      "isLocked": false,
+      "linkedName": "Right Wall Start"
+    },
+    {
+      "anchor": {
+        "x": 5.010860655737704,
+        "y": 2.9880635245901637
+      },
+      "prevControl": {
+        "x": 5.6170336741146585,
+        "y": 2.145365510093641
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": "Stick C"
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "pointTowardsZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 1.5,
+    "maxAcceleration": 1.5,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0,
+    "nominalVoltage": 12.0,
+    "unlimited": false
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": 119.99999999999999
+  },
+  "reversed": false,
+  "folder": null,
+  "idealStartingState": {
+    "velocity": 0,
+    "rotation": 180.0
+  },
+  "useDefaultConstraints": true
+}
